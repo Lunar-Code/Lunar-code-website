@@ -1,0 +1,30 @@
+body{
+    background-color: #333333;
+    color: white;
+}
+#Wrapper {
+    background: url(banner.png) no-repeat center top;padding-top: 240px;
+  }
+a:link {
+    color:  #77C277;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: #77C277;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: #F0F0F0 ;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #F0F0F0 ;
+    background-color: transparent;
+    text-decoration: underline;
+  } 
